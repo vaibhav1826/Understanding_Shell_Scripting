@@ -28,3 +28,14 @@ echo "multiplication of two number $mul"
 echo "division of two number $div"
 
 
+# arthmetic operators - ( + , - , * , / , % )
+
+# basic command to run are 
+
+# --> make a file with touch <file name> command
+
+# --> give all the permission for execution using command --> chmod 777 <file_name>
+
+# nano <file_name> --> for opening command page and writing code
+
+# ./<file_name> --> for execution for shell sricpting commands

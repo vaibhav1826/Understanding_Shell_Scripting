@@ -10,3 +10,14 @@ echo "$num is a unique number which is neither positive nor negative"
 else
 echo "$num is a negative number"
 fi
+
+#basic syntax of if-else condition
+# if (( condition ))
+# then
+# condition or output
+# elif (( condition ))
+# then
+# condition or output
+# else 
+# condition or output
+# fi
